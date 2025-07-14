@@ -13,7 +13,7 @@ to the app through BLE for display.
   
 ## Technologies used
 - ESP32 (Arduino IDE)
-- Android (Java/Kotlin in Android Studio )
+- Android (Java/Kotlin in Android Studio)
 - Bluetooth Low Energy (BLE)
 - RESTful Weather API
 - JSON parsing libraries
